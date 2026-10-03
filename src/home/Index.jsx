@@ -5,7 +5,7 @@ function Home() {
     return (
         <div>
             <h2>React - CRUD Example with React Hook Form</h2>
-            <p>Last updated: 09-06-2026</p>
+            <p>Last updated: 03-10-2026</p>
             <p>List, add, edit and delete user records with React and the React Hook Form library</p>
             <p><Link to="users">&gt;&gt; Manage Users</Link></p>
         </div>
